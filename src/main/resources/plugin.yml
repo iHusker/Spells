@@ -1,0 +1,5 @@
+name: Spells
+main: com.ihusker.spells.Source
+version: ALPHA
+api-version: 1.15
+author: iHusker
